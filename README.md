@@ -67,7 +67,8 @@ festgelegt werden. Zum Berechnen einer geeigneten Blockgröße, die die Ausführ
 minimiert, eignet sich das Konzept der Occupancy. Die Occupancy ist das Verhältnis von der Anzahl
 aktiver Warps auf einem Multiprozessor der GPU, zu der maximal möglichen Anzahl von Warps, die
 auf einem Multiprozessor aktiv sein können. 
-Anmerkung; Die höchste Occupancy liefert nicht notwendigerweise die beste Performance. Nichtsdestotrotz bietet sie eine gute 
+*Anmerkung:*
+Die höchste Occupancy liefert nicht notwendigerweise die beste Performance. Nichtsdestotrotz bietet sie eine gute 
 Heuristik für die geeignete
 Wahl der Ausführungskonfiguration eines Kernels.
 
