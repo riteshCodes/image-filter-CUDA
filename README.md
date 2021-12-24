@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/riteshCodes/imageFilter_CUDA">
-    <img src="images/tud_logo.png" alt="Logo" width="650" height="260">
+    <img src="images/tud_logo.png" alt="Logo">
   </a>
 
   <h1 align="center">Systemnahe und Parallele Programmierung</h1>
@@ -54,7 +54,7 @@ und betrachtetem Pixel. Die folgende Abbildung zeigt auf der rechten Seite das E
 des Filters.
 
 <!-- IMAGES -->
-<img src="images/example.jpg" alt="Logo" width="1148" height="598">
+<img src="images/example.jpg" alt="Logo" width="1148">
 
 Von den oben beschriebenen Schritten befindet sich eine sequenzielle Implementierung in der Datei
 serial.cpp. Das Hauptprogramm ist in der Datei main.cpp. In der Datei kernel.cu befinden sich
